@@ -3,16 +3,16 @@
 
 - **Up ảnh, file số lượng lớn lên app**: 500.000đ
 
-- **Xuất file in theo yêu cầu**: 500.000đ - 700.000đ (tùy mẫu)
+- **Xuất file in theo yêu cầu**: 500.000đ - 1.000.000đ (tùy mẫu)
   - In lẻ từng phiếu hoặc in nhiều
   - Thiết kế theo yêu cầu
 
-- **Tool nhập liệu nhanh trên AppSheet**: 500.000đ - 700.000đ (tùy mẫu)
+- **Tool nhập liệu nhanh trên AppSheet**: 500.000đ - 1.00.000đ (tùy mẫu)
   - Hỗ trợ import Excel
   - Tốc độ xử lý nhanh
   - Thay thế nhập liệu thủ công
 
-- **Báo cáo thống kê, export Excel**: 500.000đ - 700.000đ (mỗi mẫu)
+- **Báo cáo thống kê, export Excel**: 500.000đ - 1.00.000đ (mỗi mẫu)
   - Xuất theo chuẩn
   - Tốc độ cao, nhanh mượt
 
