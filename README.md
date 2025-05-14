@@ -61,3 +61,24 @@ Xin chào! Tôi sẽ thêm combo cho bạn dựa trên danh sách dịch vụ hi
 - **SVG cơ bản** 
 
 Khi mua combo này, bạn sẽ được hỗ trợ triển khai và hướng dẫn sử dụng chi tiết.
+
+Gói tháng 
+
+Mức lương hỗ trợ 4-6 triệu/tháng cho 2 kỹ thuật viên sẽ bao gồm:
+- Hỗ trợ fix lỗi hệ thống
+- Hướng dẫn nhân viên sử dụng phần mềm
+- Nâng cấp và phát triển thêm các chức năng mới
+
+**Điểm mạnh của dịch vụ theo tháng:**
+- Chi phí ổn định, dễ lập kế hoạch tài chính
+- Hỗ trợ liên tục, không bị gián đoạn
+- Linh hoạt điều chỉnh ưu tiên công việc theo nhu cầu thực tế
+- Tiết kiệm chi phí so với thuê nhân sự toàn thời gian
+- Không phát sinh phí đột xuất như khi làm theo dự án
+
+**Điểm yếu của dịch vụ theo tháng:**
+- Có thể không phù hợp cho các dự án lớn cần triển khai nhanh
+- Thời gian hoàn thành các tính năng phức tạp có thể kéo dài
+- Cần duy trì hợp đồng ít nhất 3-6 tháng để đảm bảo hiệu quả
+
+Đội ngũ của chúng tôi đã có kinh nghiệm triển khai cho nhiều đối tác khác, nên anh có thể yên tâm về chất lượng dịch vụ.
