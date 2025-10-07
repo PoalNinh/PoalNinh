@@ -1,84 +1,65 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=phuocninh.phuocninh" />
 
-# Danh sách các dịch vụ và công cụ
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phuoc+Ninh!;" />
+</h1>
 
-- **Up ảnh, file số lượng lớn lên app**: 500.000đ
+<h3 align="center">Nhà phát triển phần mềm CRM và ERP cho doanh nghiệp 🚀</h3>
 
-- **Xuất file in theo yêu cầu**: 500.000đ - 1.000.000đ (tùy mẫu)
-  - In lẻ từng phiếu hoặc in nhiều
-  - Thiết kế theo yêu cầu
+<br/>
 
-- **Tool nhập liệu nhanh trên AppSheet**: 500.000đ - 1.00.000đ (tùy mẫu)
-  - Hỗ trợ import Excel
-  - Tốc độ xử lý nhanh
-  - Thay thế nhập liệu thủ công
+<div align="center">
+ 
+ 🔭 Hiện đang làm việc với **CRM & ERP Solutions**
+ 
+ 🌱 Đang học **Next.js, TypeScript và các công nghệ mới**
 
-- **Báo cáo thống kê, export Excel**: 500.000đ - 1.00.000đ (mỗi mẫu)
-  - Xuất theo chuẩn
-  - Tốc độ cao, nhanh mượt
+ 💬 Hỏi tôi về **Node.js, React, Database Design, Business Software...**
 
-- **SVG theo yêu cầu**: 10.000đ - 100.000đ (tùy yêu cầu)
-  - SVG miễn phí có hướng dẫn triển khai trên YouTube
+ ⚡ Sự thật thú vị: **Lập trình viên đầu tiên trên thế giới là một phụ nữ (Ada Lovelace)**
+ 
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:ninhphuoc@phuocnv.io.vn">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ninhphuoc203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/PoalNinh" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## Dịch vụ nâng cao
-- **Đồng bộ dữ liệu lên web**: Liên hệ (không công khai giá)
-- **Tối ưu app**: Giá tùy theo app và nhu cầu tối ưu ( Thông thường đưa lời khuyên giải pháp miễn phí)
-- **Xây dựng app theo yêu cầu**: 2.000.000đ - 5.000.000đ (Full )
-- **Liên kết AppSheet với hóa đơn điện tử**: Liên hệ (không công khai giá)
+<hr/>
+ 
+<h2 align="center">⚒️ Ngôn ngữ - Framework - Công cụ ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql,nextjs,postgres" /><br>
+</div>
 
-## Dịch vụ miễn phí
-- https://www.youtube.com/@PoalCRM
-- **In ngay không cần đồng bộ**: Miễn phí (đang làm video hướng dẫn để đăng YouTube)
+<br/>
+<hr/>
 
-Ngoài ra, chúng tôi có thể phát triển nhiều công cụ khác theo yêu cầu cụ thể của khách hàng.
+<h2 align="center">⚡ Thống kê GitHub ⚡</h2>
+<br>
 
-Xin chào! Tôi sẽ thêm combo cho bạn dựa trên danh sách dịch vụ hiện có. Dưới đây là đề xuất về các combo mới:
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PoalNinh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PoalNinh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PoalNinh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-## Các combo ưu đãi
+<br/><br/>
 
-- **Combo Cơ bản**: 3.000.000đ (tiết kiệm 500.000đ)
-  - Chấm công qua điện thoại
-  - Tool nhập liệu nhanh trên AppSheet
-  - Tính lương
-  - Gửi bẳng lương tự động về mail
-  - Xây dựng báo cáo theo yêu cầu
+<hr/>
 
-- **Combo Cafe Toàn diện**: 3.000.000đ
-  - App quản lý bán hàng cafe
-  - APPSHEET (ADMIN QUẢN TRỊ ) + WEB QUẢN TRỊ( Không giới hạn user)
-  - In bill 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cảm+ơn+bạn+đã+ghé+thăm!+✌️;+Hãy+kết+nối+với+tôi+trên+LinkedIn!;Luôn+sẵn+sàng+hợp+tác+:)">
+</h3>
 
-## Combo Mẫu in & Nhập liệu: 2.500.000đ 
-
-- **Xuất file in theo yêu cầu**:
-  - In lẻ từng phiếu hoặc in nhiều
-  - Thiết kế theo yêu cầu  (5 mẫu theo chọn lựa)
-
-- **Tool nhập liệu nhanh trên AppSheet**: (2 FORM)
-  - Hỗ trợ import Excel
-  - Tốc độ xử lý nhanh
-  - Thay thế nhập liệu thủ công 
-
-- **SVG cơ bản** 
-
-Khi mua combo này, bạn sẽ được hỗ trợ triển khai và hướng dẫn sử dụng chi tiết.
-
-Gói tháng 
-
-Mức lương hỗ trợ 4-6 triệu/tháng cho 2 kỹ thuật viên sẽ bao gồm:
-- Hỗ trợ fix lỗi hệ thống
-- Hướng dẫn nhân viên sử dụng phần mềm
-- Nâng cấp và phát triển thêm các chức năng mới
-
-**Điểm mạnh của dịch vụ theo tháng:**
-- Chi phí ổn định, dễ lập kế hoạch tài chính
-- Hỗ trợ liên tục, không bị gián đoạn
-- Linh hoạt điều chỉnh ưu tiên công việc theo nhu cầu thực tế
-- Tiết kiệm chi phí so với thuê nhân sự toàn thời gian
-- Không phát sinh phí đột xuất như khi làm theo dự án
-
-**Điểm yếu của dịch vụ theo tháng:**
-- Có thể không phù hợp cho các dự án lớn cần triển khai nhanh
-- Thời gian hoàn thành các tính năng phức tạp có thể kéo dài
-- Cần duy trì hợp đồng ít nhất 3-6 tháng để đảm bảo hiệu quả
-
-Đội ngũ của chúng tôi đã có kinh nghiệm triển khai cho nhiều đối tác khác, nên anh có thể yên tâm về chất lượng dịch vụ.
+<br/>
